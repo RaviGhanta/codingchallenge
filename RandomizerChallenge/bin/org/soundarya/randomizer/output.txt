@@ -1,0 +1,21 @@
+Main Program Started
+Prime checker started
+Randomizer execution begin
+Adding integer to input queue from randomizer:31
+Adding integer to input queue from randomizer:51
+ Integer: 31 isPrime: true
+ Integer: 51 isPrime: false
+Adding integer to input queue from randomizer:56
+ Integer: 56 isPrime: false
+Adding integer to input queue from randomizer:31
+ Integer: 31 isPrime: true
+Adding integer to input queue from randomizer:50
+ Integer: 50 isPrime: false
+Adding integer to input queue from randomizer:16
+ Integer: 16 isPrime: false
+Adding integer to input queue from randomizer:1
+ Integer: 1 isPrime: false
+Adding integer to input queue from randomizer:73
+ Integer: 73 isPrime: true
+Adding integer to input queue from randomizer:54
+ Integer: 54 isPrime: false
